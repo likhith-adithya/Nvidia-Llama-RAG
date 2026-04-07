@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "colab-proxy-mcp": {
+      "command": "/Users/likhithadithya/Desktop/PROJECTS /Nvidia llm/Nvidia-Llama-RAG/.venv/bin/colab-mcp",
+      "args": [],q
+      "timeout": 30000,
+      "env": {}
+    }
+  }
+}
